@@ -1,0 +1,74 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-gray-200;
+  }
+  
+  body {
+    @apply font-sans text-gray-900 bg-gray-50;
+  }
+}
+
+@layer components {
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary-600 via-secondary-500 to-accent-500 bg-clip-text text-transparent;
+  }
+  
+  .gradient-bg {
+    @apply bg-gradient-to-r from-primary-500 via-secondary-500 to-accent-500;
+  }
+  
+  .glass-effect {
+    @apply bg-white/80 backdrop-blur-sm border border-white/20;
+  }
+  
+  .draggable-block {
+    @apply border-2 border-dashed border-gray-300 transition-all duration-200;
+  }
+  
+  .draggable-block:hover {
+    @apply border-primary-400 bg-primary-50/50;
+  }
+  
+  .draggable-block.selected {
+    @apply border-primary-500 bg-primary-50;
+  }
+  
+  .canvas-grid {
+    background-image: radial-gradient(circle, #e5e7eb 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+}
+
+/* Toast Customization */
+.Toastify__toast-container {
+  @apply !top-20 !right-4 !w-80;
+}
+
+.Toastify__toast {
+  @apply !rounded-lg !shadow-lg !min-h-16;
+}
+
+.Toastify__toast--success {
+  @apply !bg-gradient-to-r !from-green-500 !to-emerald-500;
+}
+
+.Toastify__toast--error {
+  @apply !bg-gradient-to-r !from-red-500 !to-pink-500;
+}
+
+.Toastify__toast--info {
+  @apply !bg-gradient-to-r !from-blue-500 !to-indigo-500;
+}
+
+.Toastify__toast-body {
+  @apply !text-white !font-medium;
+}
+
+.Toastify__progress-bar {
+  @apply !bg-white/30;
+}

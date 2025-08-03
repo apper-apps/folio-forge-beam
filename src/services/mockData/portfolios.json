@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "name": "Photography Portfolio",
+    "template": 1,
+    "subdomain": "john-photos",
+    "customDomain": "",
+    "published": true,
+    "thumbnail": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+    "views": 1247,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Fitness Coach Portfolio",
+    "template": 3,
+    "subdomain": "fit-coach-sarah",
+    "customDomain": "",
+    "published": true,
+    "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+    "views": 856,
+    "createdAt": "2024-01-18T09:15:00Z",
+    "updatedAt": "2024-01-22T11:20:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Wedding Videography",
+    "template": 2,
+    "subdomain": "wedding-films",
+    "customDomain": "",
+    "published": false,
+    "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=300&fit=crop",
+    "views": 423,
+    "createdAt": "2024-01-25T16:00:00Z",
+    "updatedAt": "2024-01-26T12:30:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Creative Studio",
+    "template": 4,
+    "subdomain": "creative-works",
+    "customDomain": "",
+    "published": true,
+    "thumbnail": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400&h=300&fit=crop",
+    "views": 692,
+    "createdAt": "2024-01-28T13:45:00Z",
+    "updatedAt": "2024-01-29T15:10:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Business Consultant",
+    "template": 5,
+    "subdomain": "biz-consulting",
+    "customDomain": "",
+    "published": false,
+    "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+    "views": 234,
+    "createdAt": "2024-02-01T08:20:00Z",
+    "updatedAt": "2024-02-02T10:45:00Z"
+  }
+]

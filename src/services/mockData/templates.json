@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "name": "Classic Photography",
+    "description": "Clean and elegant template perfect for photographers to showcase their work",
+    "category": "photography",
+    "preview": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=600&h=400&fit=crop",
+    "blocks": 8,
+    "features": ["Image galleries", "Contact form", "About section", "Social links"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Cinematic Video",
+    "description": "Bold and dramatic template designed for videographers and filmmakers",
+    "category": "videography",
+    "preview": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop",
+    "blocks": 10,
+    "features": ["Video embedding", "Project showcase", "Client testimonials", "Services"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Fitness Pro",
+    "description": "Energetic and motivational template for personal trainers and fitness coaches",
+    "category": "fitness",
+    "preview": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop",
+    "blocks": 12,
+    "features": ["Training programs", "Before/after gallery", "Testimonials", "Booking system"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Creative Studio",
+    "description": "Versatile template for creative professionals and agencies",
+    "category": "creative",
+    "preview": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=600&h=400&fit=crop",
+    "blocks": 15,
+    "features": ["Portfolio grid", "Case studies", "Team section", "Process timeline"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Business Professional",
+    "description": "Professional and corporate template for business consultants",
+    "category": "business",
+    "preview": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+    "blocks": 9,
+    "features": ["Services overview", "Experience timeline", "Client logos", "Contact form"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Minimalist Portfolio",
+    "description": "Simple and clean template focusing on content over decoration",
+    "category": "photography",
+    "preview": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&h=400&fit=crop",
+    "blocks": 6,
+    "features": ["Minimal design", "Typography focus", "Grid layout", "Simple navigation"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Event Videography",
+    "description": "Specialized template for wedding and event videographers",
+    "category": "videography",
+    "preview": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=600&h=400&fit=crop",
+    "blocks": 11,
+    "features": ["Video galleries", "Package pricing", "Event timeline", "Booking calendar"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "Yoga Instructor",
+    "description": "Peaceful and calming template for yoga instructors and wellness coaches",
+    "category": "fitness",
+    "preview": "https://images.unsplash.com/photo-1506629905607-bb5e4e8f7bf1?w=600&h=400&fit=crop",
+    "blocks": 10,
+    "features": ["Class schedules", "Meditation guides", "Wellness blog", "Online booking"],
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+]

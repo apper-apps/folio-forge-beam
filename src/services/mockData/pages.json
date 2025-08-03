@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "portfolioId": 1,
+    "title": "Home",
+    "slug": "home",
+    "blocks": [
+      {
+        "id": "block_1",
+        "type": "text",
+        "content": {
+          "title": "Professional Photography",
+          "text": "Capturing life's most precious moments with artistic vision and technical excellence."
+        },
+        "style": {},
+        "position": { "x": 0, "y": 0 }
+      },
+      {
+        "id": "block_2",
+        "type": "image",
+        "content": {
+          "src": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=600&fit=crop",
+          "alt": "Professional photography showcase"
+        },
+        "style": {},
+        "position": { "x": 0, "y": 100 }
+      }
+    ],
+    "settings": {
+      "seoTitle": "Photography Portfolio",
+      "seoDescription": "Professional photography services"
+    },
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "Id": 2,
+    "portfolioId": 2,
+    "title": "Home",
+    "slug": "home",
+    "blocks": [
+      {
+        "id": "block_3",
+        "type": "text",
+        "content": {
+          "title": "Transform Your Fitness Journey",
+          "text": "Personal training and coaching to help you achieve your health and fitness goals."
+        },
+        "style": {},
+        "position": { "x": 0, "y": 0 }
+      },
+      {
+        "id": "block_4",
+        "type": "social",
+        "content": {
+          "instagram": "https://instagram.com/fitcoach",
+          "twitter": "https://twitter.com/fitcoach",
+          "linkedin": "https://linkedin.com/in/fitcoach",
+          "email": "coach@example.com"
+        },
+        "style": {},
+        "position": { "x": 0, "y": 200 }
+      }
+    ],
+    "settings": {
+      "seoTitle": "Fitness Coach Portfolio",
+      "seoDescription": "Personal training and fitness coaching services"
+    },
+    "createdAt": "2024-01-18T09:15:00Z",
+    "updatedAt": "2024-01-22T11:20:00Z"
+  }
+]
